@@ -1,0 +1,53 @@
+# Car-price-model
+Car price prediction using random forest regressor
+<div id="top"></div>
+
+<div align="center">
+  <h3 align="center">Car price prediction</h3>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+Car price prediction uses data from cardekho to predict the price of car by taking factors such how old the car is, 
+how many owners it had, its fuel type, how many kilometers it travelled and its transmission type.
+
+*This project has been deployed with Azure App services.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Built With
+
+* Azure App service
+* python 3.7
+* Flask
+* Numpy
+* Pandas
+* sklearn
+
+<!-- CONTACT -->
+## Contact
+
+Avnish Singh - [@avnish__21](https://twitter.com/avnish__21) avnish1708@gmail.com
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/avnishs17
+
