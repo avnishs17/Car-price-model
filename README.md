@@ -44,9 +44,9 @@ how many owners it had, its fuel type, how many kilometers it travelled and its 
 Avnish Singh - [@avnish__21](https://twitter.com/avnish__21) 
 
 
-<p>
+
 - 📫 How to reach me **avnish1708@gmail.com**
- </p> 
+
 <p><a href="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="avnishs17" height="30" width="40" /></a>
 </p>
 
