@@ -41,7 +41,7 @@ how many owners it had, its fuel type, how many kilometers it travelled and its 
 <!-- CONTACT -->
 ## Contact
 
-Avnish Singh - <a href="https://twitter.com/avnish__21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avnish__21" height="30" width="40" /></a>
+Avnish Singh - <a href="https://twitter.com/avnish__21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avnish__21" height="30" width="40" />avnish__21</a>
 
 
 
