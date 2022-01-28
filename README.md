@@ -42,7 +42,7 @@ how many owners it had, its fuel type, how many kilometers it travelled and its 
 <!-- CONTACT -->
 ## Contact
 
-Avnish Singh - [@avnish__21](https://twitter.com/avnish__21) avnish1708@gmail.com
+Avnish Singh - [@avnish__21](https://twitter.com/avnish__21) 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
