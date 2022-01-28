@@ -47,10 +47,9 @@ Avnish Singh - [@avnish__21](https://twitter.com/avnish__21)
 
 - 📫 How to reach me **avnish1708@gmail.com**
 
-<a href="https://linkedin.com/in/avnishs17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avnishs17" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/avnishs17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avnishs17" height="30" width="40" />[@avnishs17}</a>
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/avnishs17
+
+
 
 
