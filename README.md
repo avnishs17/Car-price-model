@@ -1,5 +1,4 @@
-# Car-price-model
-Car price prediction using random forest regressor
+
 <div id="top"></div>
 
 <div align="center">
